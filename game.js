@@ -1,6 +1,6 @@
 ﻿// Creating variables
 var myX = 400, myY = 300;
-
+var fgt = false
 function update() {
    
 }
